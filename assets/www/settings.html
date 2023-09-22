@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta http-equiv="Content-Security-Policy" content="default-src * data: gap: https://ssl.gstatic.com; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'">
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/iconic/css/material-design-iconic-font.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" href="components/loader.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="components/loader.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+    <script src="app.js"></script>
+    <script>
+        //
+        // TODO: Write JavaScript code here
+        //
+        localStorage.setItem("page", 1);
+    </script>
+    <style>
+body, html {
+	height: 100%;
+	background-color: black;
+}
+    </style>
+</head>
+<body>
+          <div class="today-view">
+              <span class="total-earnings-amount" id="total-earnings-amount">
+
+              </span>
+              <span class="total-earnings-currency" id="total-earnings-currency">
+                      лв.
+              </span>
+              <span class="total-earnings-today" id="total-earnings-today">
+              </span>
+              <img src="images/qr.png" style="position: relative; top: -5vh; left: 65vw; width: 30vw; height: auto;">
+          </div>
+          <div class="lower-part">
+              <div class="stats-buttons">
+                <button class="stats-buttons-today" onclick="location.href='main.html'" style="display: none;">Днес</button>
+                <button class="stats-buttons-yesterday" onclick="location.href='yesterday.html'" style="display: none;">Вчера</button>
+                <button class="stats-buttons-sevendays" onclick="location.href='sevendays.html'" style="display: none;">7 дни</button>
+                <button class="stats-buttons-thirtydays" onclick="location.href='thirtydays.html'" style="display: none;">30 дни</button>
+              </div>
+              <div class="statsPerPeriod" id="settingsList" style="height: 45vh; overflow: auto;">
+
+					<div style="height: 10vh;" class="wrap-input100 validate-input m-b-23" data-validate = "Полето е задължително">
+						<span class="label-input100">API Потребител</span>
+						<input class="input100" type="text" id="apiUser" placeholder="Въведете API потребител">
+						<span class="focus-input100"></span>
+					</div>
+
+					<div class="wrap-input100 validate-input" data-validate="Полето е задължителна">
+						<span class="label-input100">API Ключ</span>
+						<input class="input100" id="apiKey" placeholder="Въведете API Ключ">
+						<span class="focus-input100"></span>
+					</div>
+                <button class="saveButton" onclick="saveAPI();">Запази</button>
+                <button class="logoutButton" onclick="logOut();">Изход</button>
+                  
+              </div>
+          </div>
+          <div class="menu-bar">
+              <div class="menu-bar-icons">
+                <img src="images/home.png" style="height: 4vh; width: auto; margin-left: auto; margin-right: auto;" class="menu-bar-home" onclick="location.href='main.html'">
+                <img src="images/sharing.png" style="height: 4vh; width: auto; margin-left: auto; margin-right: auto;" class="menu-bar-links" onclick="location.href='links.html'">
+                <img src="images/email.png" style="height: 4vh; width: auto; margin-left: auto; margin-right: auto;" class="menu-bar-messages" onclick="location.href='advertisers.html'">
+                <img src="images/settings.png" style="height: 4vh; width: auto; margin-left: auto; margin-right: auto;" class="menu-bar-settings" onclick="location.href='settings.html'" >
+              </div>
+          </div>
+    <script src="settings.js"></script>
+</body>
+</html>

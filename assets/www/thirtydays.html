@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta http-equiv="Content-Security-Policy" content="default-src * data: gap: https://ssl.gstatic.com; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'">
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/iconic/css/material-design-iconic-font.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" href="components/loader.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="components/loader.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+    <script src="app.js"></script>
+    <script>
+        //
+        // TODO: Write JavaScript code here
+        //
+        localStorage.setItem("Period", 3);
+    </script>
+    <style>
+body, html {
+	height: 100%;
+	background-color: black;
+}
+    </style>
+</head>
+          <div class="today-view">
+              <span class="total-earnings-amount" id="total-earnings-amount">
+
+              </span>
+              <span class="total-earnings-currency" id="total-earnings-currency">
+                      лв.
+              </span>
+              <span class="total-earnings-today" id="total-earnings-today">
+              </span>
+              <img src="images/qr.png" style="position: relative; top: -5vh; left: 65vw; width: 30vw; height: auto;">
+          </div>
+          <div class="lower-part">
+              <div class="stats-buttons">
+                <button class="stats-buttons-today" onclick="location.href='main.html'">Днес</button>
+                <button class="stats-buttons-yesterday" onclick="location.href='yesterday.html'">Вчера</button>
+                <button class="stats-buttons-sevendays" onclick="location.href='sevendays.html'">7 дни</button>
+                <button class="stats-buttons-thirtydays" onclick="location.href='thirtydays.html'" style="border-bottom: 2px solid white;">Този месец</button>
+              </div>
+              <div class="statsPerPeriod">
+                  <div class="ClickStats" id="ClickStats">
+                      <div class="ClickStats-left" id="ClickStats-left">
+                      <img class="clickImage" src="images/click.png" style="width: auto; height: 5vh; position: relative; top: 2.5vh;">
+                      <div class="clickLabel">Кликове</div>
+                      <div class="clickCount" id="clickCount"></div>
+                      </div>
+                      <div class="ClickStats-right" id="ClickStats-right"><canvas id="clicksChart" style="position: absolute; bottom: 0vh;" ></canvas></div>
+                  </div>
+                  <div class="CommissionStats" id="CommissionStats">
+                      <div class="CommissionStats-left" id="CommissionStats-left">
+                      <img class="commissionImage" src="images/money.png" style="width: auto; height: 5vh; position: relative; top: 2.5vh;">
+                      <div class="commissionLabel">Комисионна</div>
+                      <div class="commissionAmount" id="commissionAmount"></div> 
+                      </div>
+                      <div class="CommissionStats-right" id="CommissionStats-right"><canvas id="commissionsChart" style="position: absolute; bottom: 0vh;"></canvas></div>
+                  </div>
+                  <div class="ConversionStats" id="ConversionStats">
+                      <div class="ConversionStats-left" id="ConversionStats-left">
+                      <img class="conversionImage" src="images/sand-clock.png" style="width: auto; height: 5vh; position: relative; top:2.5vh;">
+                      <div class="conversionLabel">Конверсии</div>
+                      <div class="conversionAmount" id="conversionAmount"></div>
+                      </div>
+                      <div class="ConversionStats-right" id="ConversionStats-right"><canvas id="conversionsChart" style="position: absolute; bottom: 0vh;"></canvas></div>
+                  </div>
+              </div>
+          </div>
+          <div class="menu-bar">
+              <div class="menu-bar-icons">
+                <img src="images/home.png" style="height: 4vh; width: auto; margin-left: auto; margin-right: auto;" class="menu-bar-home" onclick="location.href='main.html'" style="border-bottom: 2px solid white;">
+                <img src="images/sharing.png" style="height: 4vh; width: auto; margin-left: auto; margin-right: auto;" class="menu-bar-links" onclick="location.href='links.html'">
+                <img src="images/email.png" style="height: 4vh; width: auto; margin-left: auto; margin-right: auto;" class="menu-bar-messages" onclick="location.href='advertisers.html'">
+                <img src="images/settings.png" style="height: 4vh; width: auto; margin-left: auto; margin-right: auto;" class="menu-bar-settings" onclick="location.href='settings.html'" >
+              </div>
+          </div>
+          <div hidden id="result"></div>
+          <div hidden id="result1"></div>
+          <div hidden id="result2"></div>
+    <script src="thirtydays.js"></script>
+</body>
+</html>

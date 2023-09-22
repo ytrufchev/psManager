@@ -1,0 +1,515 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: nzjeRS4W87jbM6J7RviA/kyZY1rXG5xumX7DVhq/MN8=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: UDUEcIHe9MoaCvC6VBxLYYN6GdT9K6nM7jzyl3dN9Ao=
+
+Name: assets/www/advertisers.html
+SHA-256-Digest: 7KH3bNgyiY0LmSvJ8baEChvAjPF/76oEejLzgw0pAWY=
+
+Name: assets/www/advertisers.js
+SHA-256-Digest: jzEeTVxQjwirkBH60hK9l2rw1tBaxk4gOkHYMOJBZMk=
+
+Name: assets/www/app.js
+SHA-256-Digest: oeQSu+hrJ10Ns2xC0ZDOqfOu2x8R47a3ol6XulgPqB4=
+
+Name: assets/www/components/loader.css
+SHA-256-Digest: o65DDs3Ukw3gzFrT7aTqlfG65o7fIVppNtpBzrmf3fw=
+
+Name: assets/www/components/loader.js
+SHA-256-Digest: HSFRE/MxkFbQewh5Fywq61sR8RDCiWOKYLw9JlKFyaM=
+
+Name: assets/www/components/monaca-cordova-loader/bower.json
+SHA-256-Digest: 6ux4O+ydTS+rqzHMVMepjujg2AN/bH7eBBdOjaU8Btc=
+
+Name: assets/www/components/monaca-cordova-loader/cordova-loader.js
+SHA-256-Digest: yIZOCV90haHaOZb4auDjjh9lnrRhRxNVJ0wZANCPLzI=
+
+Name: assets/www/components/monaca-core-utils/bower.json
+SHA-256-Digest: Evx10yE7Xvidb6FoCHpVrGqwEIjZvwYOqDDEk41u2c4=
+
+Name: assets/www/components/monaca-core-utils/monaca-core-utils.js
+SHA-256-Digest: ezLD9TC/bD5Y988yyZGdYkbPME9s/J+n5QtuVr5wEvI=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA-256-Digest: 08WJmoET3eRL2TJ8/SME/FvuwPBKel++jHlMoMqOxgU=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA-256-Digest: D2CjIjwVM8U2oXO6f1Dob6fRDk2qAAhooxLmtz4X6XU=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA-256-Digest: vw5RG6718aXfB9HjCw3zj2/F7gBewNCP7saXN4bdsk0=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA-256-Digest: TIwOy5HSLz6Ooku1143xAiKmZkDCBaidLh0G54rqlxA=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA-256-Digest: 0kqK+By+zgonDtkajMeIrmH8mjjUOZIGZZBtf452bto=
+
+Name: assets/www/cordova.js
+SHA-256-Digest: 01V8kFYPMRvZ8QMze/aYG5Mf/guwNiT2e2bIBgOe2Uc=
+
+Name: assets/www/cordova_plugins.js
+SHA-256-Digest: ejsLITM4J/NGoDcRXlbsdOY65uBvwTDpdncyjoRT5Hw=
+
+Name: assets/www/css/KelsonSansBG-Bold.otf
+SHA-256-Digest: HNIW83Dpay8aI8zlYd7X1zeWknzMj+nR1D18L1iD/0M=
+
+Name: assets/www/css/KelsonSansBG-Light.otf
+SHA-256-Digest: rUeRe/sFVuJJfyIcUfpPzl+aBjcMDGmEJy108fUazmE=
+
+Name: assets/www/css/KelsonSansBG-Normal.otf
+SHA-256-Digest: aH62xNXcAmVtmZPe3+O5nTrmsZz8jy9YAfO3lxw474E=
+
+Name: assets/www/css/Preloader_71.gif
+SHA-256-Digest: hv4XveNuvaxckZSsV5xWpR/MR2JkC0UTfxjZYdeZC2M=
+
+Name: assets/www/css/bg-01.jpg
+SHA-256-Digest: IDIpe9bP7vGl9rwNNskF4ir3JZEvOtmw6CEyKzPz+gU=
+
+Name: assets/www/css/main.css
+SHA-256-Digest: 32d3AO5cIklJRtqcpxuxxpguyPf8kJLnw8tXgney+CU=
+
+Name: assets/www/css/style.css
+SHA-256-Digest: 0LMukjh6FEOXAUrKLZmTh80/PoWvrijoD7EnA9it4mk=
+
+Name: assets/www/css/util.css
+SHA-256-Digest: yeSn7lBj2dlaxTUt8yWVHbUu/G7UpN5HoVOZBrXUifQ=
+
+Name: assets/www/dashboard.js
+SHA-256-Digest: o7vQqLWjD8sWyzdEl219bipFQHtBGLsyNR87oxcpwVg=
+
+Name: assets/www/fonts/font-awesome-4.7.0/HELP-US-OUT.txt
+SHA-256-Digest: 9a7X5AANT7k3YeYfbeG5nwWPX6BEwVnoU0TPloNyLlA=
+
+Name: assets/www/fonts/font-awesome-4.7.0/css/font-awesome.css
+SHA-256-Digest: acTfB96HOoz+N+Wub2Sy+fNocyb3pd4HE/GsS70qOFw=
+
+Name: assets/www/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+SHA-256-Digest: y8/hFYPgv/91aA2+pMfQppsFKrRpOdzjNdcoFINWZX4=
+
+Name: assets/www/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf
+SHA-256-Digest: E9tWoUtGnnVGrOILAuEjsPdDgAQDe6Htk/G49NpMnRw=
+
+Name: assets/www/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eo
+ t
+SHA-256-Digest: zmFQwdGOGlixG8W8LjRR69ubxF4eMC07HWT0dJsRKhk=
+
+Name: assets/www/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.sv
+ g
+SHA-256-Digest: NnQOAgZDUe4bWNwq5EmryCbO9NkeCvYaALNYDxQr8NY=
+
+Name: assets/www/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.tt
+ f
+SHA-256-Digest: FRkkN+cggQpXuLZStWvTiG2oYlRBZS8b41L4kYsxbeA=
+
+Name: assets/www/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.wo
+ ff
+SHA-256-Digest: 49kN7Q8CfbmMBCTjZGqaTEnXA549kAqx2Fo0SDCg1+4=
+
+Name: assets/www/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.wo
+ ff2
+SHA-256-Digest: OxG8qFh4JSMfNYHbRWPdCc/OhgbMyuaMGDg55VbbCQM=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/animated.less
+SHA-256-Digest: hpE69mjy3JyidLwSRqefsyyxdGOLh/Erlmgb5MToDJY=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/bordered-pulled.less
+SHA-256-Digest: TqR+CLizpKJASQML8GlORh9w4R3N0osoeIX1J7Gt56k=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/core.less
+SHA-256-Digest: U/PjIkPXQ9w9a/OPiQ3uQiUh/rL+JOsie1ln/yBO5EA=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/fixed-width.less
+SHA-256-Digest: kGPc8BRv2GdEG7dFleCVKde7VJcn0PzhYsaPCWxr6TA=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/font-awesome.less
+SHA-256-Digest: IxOBdY4oJTADVOiEyuaxFDPeknZG69aV9Urxn7esrc0=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/icons.less
+SHA-256-Digest: Dt1OZEz/+PKjgVocIg4hYFHmlmlycLWQlI/L1qcOkOE=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/larger.less
+SHA-256-Digest: jfEbVU6fNtI7LiKPvta6KYacqhu2OgsFJMJJoiFOBZo=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/list.less
+SHA-256-Digest: qRUfDR+U0wmWL9NKM7Ab6tToIdyAje/KY40Akm+09r4=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/mixins.less
+SHA-256-Digest: b/NTvgnlWgjgH6pu0AVml6h0fxRdcNFLwDK/KIJa9tk=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/path.less
+SHA-256-Digest: ZHmNy58I/GmBBieqt2s3HXi5VXT5qqbIOjUl7F1VwL0=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/rotated-flipped.less
+SHA-256-Digest: s0067PMiEq37QSukCy5oCcrk8JhIB/I748toS/BRFq4=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/screen-reader.less
+SHA-256-Digest: YioOQ/oXE9Y+2Wn+yr1rh8nFCqXSkAzzYP37YVLxBzI=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/stacked.less
+SHA-256-Digest: xX3u+2fuBGro7f25I3dhUNOmWyI7vNmmG/+mNEKm5+M=
+
+Name: assets/www/fonts/font-awesome-4.7.0/less/variables.less
+SHA-256-Digest: 7jFTejQ5AxCRUInRr2yX2aqXwJN4fVuC8kW99XSs1S0=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_animated.scss
+SHA-256-Digest: X3/1diAtNfV93D9zgNjKTTi85wdCRwkS4YYGilJFqqw=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss
+SHA-256-Digest: cCnTJUABgzoozxy2/oa2pA3nJ44Fekzio6lviF50Nps=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_core.scss
+SHA-256-Digest: d0j3PzLdA0m3tT6SrheEYpzxT2holshVHgz2M/tKFB0=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_fixed-width.scss
+SHA-256-Digest: VU4hPbmGhHti2Bn4moHOHYHn1r4XhJoXFe27aXtCE8k=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_icons.scss
+SHA-256-Digest: uS6/O7e/t5NBDVUapBNV7eb84ozGn6OvG7rUU65PcO8=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_larger.scss
+SHA-256-Digest: V9m70wtUudyX69vqunASV1jezVvyo1cj+CnGo82y1cQ=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_list.scss
+SHA-256-Digest: DDqmaUtitaFvyzEAsY3SRcLdAsSDlbhF/WWwlXBVbO0=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_mixins.scss
+SHA-256-Digest: v84jFjdlsgAQdmxHrFAnwWkP9h/ienZJdTAjinLxZkk=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_path.scss
+SHA-256-Digest: iNHaop/bt84WGmlDtkHfih6G1MqQGsoSPFjQkpt7tys=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss
+SHA-256-Digest: CwFtI8NmiHnKIyiAD9MTPECbY1YROM704+VG7MplQxg=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_screen-reader.scss
+SHA-256-Digest: qyeNDAG04tuT//ULN7hVS3s2ZG9Bcw2k9aIxeF04qQI=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_stacked.scss
+SHA-256-Digest: Sa4XWoOTjQ/b73wwPnNJYvtp2BGA/cXttdW7ZTi3CNA=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/_variables.scss
+SHA-256-Digest: bSZpEdNvaKc3zxOImFuHKmyfIm/0OdID8sRuBRriJ6g=
+
+Name: assets/www/fonts/font-awesome-4.7.0/scss/font-awesome.scss
+SHA-256-Digest: tKdqnMTvj6Pk71Iiy3Pn1fSjiOVRxkgR18tJFhxW+3g=
+
+Name: assets/www/fonts/iconic/css/material-design-iconic-font.css
+SHA-256-Digest: GQpZVo5Sarc6gFe2o12e2POObqRDgPI5mgiiUTnfSCg=
+
+Name: assets/www/fonts/iconic/css/material-design-iconic-font.min.css
+SHA-256-Digest: 991/k7MeizwG6RUO4UKGdt8m7kJ5LFS0B6Ac0Nx3UaE=
+
+Name: assets/www/fonts/iconic/fonts/Material-Design-Iconic-Font.eot
+SHA-256-Digest: HO+v2KxtJ7iG5kcKiaX38eMLvqMvLegJzJt8MSPXTXA=
+
+Name: assets/www/fonts/iconic/fonts/Material-Design-Iconic-Font.svg
+SHA-256-Digest: k6WhW7pCkl/8SI9jkcEHXtK5AwbLreqlp9v112pFLbk=
+
+Name: assets/www/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf
+SHA-256-Digest: 35P1//SQaXfLvU15NEzOH+hmutEIhch03ukjg83kFEQ=
+
+Name: assets/www/fonts/iconic/fonts/Material-Design-Iconic-Font.woff
+SHA-256-Digest: wcMiFLSzel1r61SrI3zrRJ56jfY0Ou+hpxn6lCeJqeg=
+
+Name: assets/www/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2
+SHA-256-Digest: pSsiandyTLC/wh7+eC2v4ith8chwBVS+xWVWnxzFGUQ=
+
+Name: assets/www/fonts/poppins/Poppins-Black.ttf
+SHA-256-Digest: NgwcNihVj/+zVKn/tblEDlCcTqLcpyE7CHjRYzna+pg=
+
+Name: assets/www/fonts/poppins/Poppins-BlackItalic.ttf
+SHA-256-Digest: uEqVu/53YJBk31aQk9+Xccq5rzculPdi2rZwJAP8O/k=
+
+Name: assets/www/fonts/poppins/Poppins-Bold.ttf
+SHA-256-Digest: 8tDMFd2254CvbdqSTVAxUW0naOiNaG1iQdJarlJH1w8=
+
+Name: assets/www/fonts/poppins/Poppins-BoldItalic.ttf
+SHA-256-Digest: yS2EEyRyYFNbwHoe1hWcSPb6PF4zrtQAYkFH1g0RtGI=
+
+Name: assets/www/fonts/poppins/Poppins-ExtraBold.ttf
+SHA-256-Digest: 5osLZT7Yr78o+ilUOFiCdhY6MMnHieOPXFnVF5BUZvA=
+
+Name: assets/www/fonts/poppins/Poppins-ExtraBoldItalic.ttf
+SHA-256-Digest: t5CvhW8EOH08IYhp1I4XTCVuurECN5Pwgpyu/RffpPE=
+
+Name: assets/www/fonts/poppins/Poppins-ExtraLight.ttf
+SHA-256-Digest: 4pMmGiXO7XnvNTaueIk8kWp1FAm6zk90k5pgemtPvFA=
+
+Name: assets/www/fonts/poppins/Poppins-ExtraLightItalic.ttf
+SHA-256-Digest: 8iP9/EwvxPzo3KtrcjwuKtzUApftC60xqQTw4qCwpsQ=
+
+Name: assets/www/fonts/poppins/Poppins-Italic.ttf
+SHA-256-Digest: 9XEljzmc6py3OwWcIAJNcgqAS6kXSgR/oj02lmvhOdk=
+
+Name: assets/www/fonts/poppins/Poppins-Light.ttf
+SHA-256-Digest: LhIMEDgYYwy0bBnXYRiXi2gX/lBerS6g/wM9vuvyITw=
+
+Name: assets/www/fonts/poppins/Poppins-LightItalic.ttf
+SHA-256-Digest: i9tuAK7qvFBR5f8NabvM4WUKls6C40H90jmVxrh7460=
+
+Name: assets/www/fonts/poppins/Poppins-Medium.ttf
+SHA-256-Digest: op9pIWuFQINKrcVdfQSKx+emvT165uujI9T8qbqVZlU=
+
+Name: assets/www/fonts/poppins/Poppins-MediumItalic.ttf
+SHA-256-Digest: kniI7l5FCKheVynVkgNsHt3InyoRm0wlDdZeqLarU1c=
+
+Name: assets/www/fonts/poppins/Poppins-Regular.ttf
+SHA-256-Digest: tN+WnCf8vNuMlGUmZh88daTYNLMoWEW7Qnn7F3Xn3Go=
+
+Name: assets/www/fonts/poppins/Poppins-SemiBold.ttf
+SHA-256-Digest: hHUdiOIklV2ybMrhdrWF+adlyO5bgudf2eTf01IBOLI=
+
+Name: assets/www/fonts/poppins/Poppins-SemiBoldItalic.ttf
+SHA-256-Digest: kiZKl/Zj6TG6aKGz4L6wgR1qiveGn7Jdt1AJYOSJrlo=
+
+Name: assets/www/fonts/poppins/Poppins-Thin.ttf
+SHA-256-Digest: Jnw3/kT7V1/mXw9rudiBaku65MlkIV2ex7jUjPTiOe4=
+
+Name: assets/www/fonts/poppins/Poppins-ThinItalic.ttf
+SHA-256-Digest: G0sK0o7IEnY8d94TWCjxeJ3djR1vXAuSKQ2pdWYN0/o=
+
+Name: assets/www/images/bg-01.jpg
+SHA-256-Digest: p/rv79fLY8yUQ6/bCalUjIiRvpJyjalNcRZNo/ldz7M=
+
+Name: assets/www/images/click.png
+SHA-256-Digest: Gv+68R1y/sbFrvRr3nwwcfhE+OtrbsA50XlgNVsxgHo=
+
+Name: assets/www/images/email.png
+SHA-256-Digest: gG+CNV/wJVW4Yo++p26ntfFCz5LmnVdbPHdJ4MwMUnI=
+
+Name: assets/www/images/home.png
+SHA-256-Digest: CW4t6B/YFTnbtzTEZX7zyzXxNESAW47fKVMl6EDxrQY=
+
+Name: assets/www/images/icons/favicon.ico
+SHA-256-Digest: AtT0/em/+crSP/cZAU7hi+LmiPJqXZDotncsdngKxCc=
+
+Name: assets/www/images/money.png
+SHA-256-Digest: QeMaREkcMPA4js259lDMH/iBJvK/FUUPRODbVp6BE2U=
+
+Name: assets/www/images/qr.png
+SHA-256-Digest: cB7bDwoUVIkGnwtQN02ca3PcwtHibL9N77Q1xUXZQNc=
+
+Name: assets/www/images/sand-clock.png
+SHA-256-Digest: J9YV8aEB20NtUXRBnJn2VhBjSga/7DIfRQZNjTO4mJo=
+
+Name: assets/www/images/settings.png
+SHA-256-Digest: hALD9IliKPeYUG4fK/qqDCpql34BDQF34PDX4wJWA24=
+
+Name: assets/www/images/sharing.png
+SHA-256-Digest: 0KMdorRF7+epN6qw9CsDZW4e0gbUrHZ7isugRnGWovk=
+
+Name: assets/www/index.html
+SHA-256-Digest: P6Np97CRyHwrpqBZHMN+qL83NxFRun8Xd8fvSxfSCyk=
+
+Name: assets/www/js/main.js
+SHA-256-Digest: 2d95PtUWHUfjx8PT/1B0q/isVndvaL1vWW7b3pAlI/o=
+
+Name: assets/www/links.html
+SHA-256-Digest: E2yoC6da/2UDfMswFudPbGMwg+GnsAKMGhzWP2eRp4Q=
+
+Name: assets/www/links.js
+SHA-256-Digest: ecwEuaGcGtM+F55aHkNRc5DSs3dTEhEVLTtNRSrCGbk=
+
+Name: assets/www/login.html
+SHA-256-Digest: ZCFKbh/yxcvoZgTgMwpeQHyi2M6GtdLz8VpDoG7WTzc=
+
+Name: assets/www/main.html
+SHA-256-Digest: kZdBCbVRBzPh6wwvCLbhqitPeRhNIek+JS1FuM3ndnA=
+
+Name: assets/www/manifest.json
+SHA-256-Digest: gGChkmc1kdW6z9Z/BbqpYq/oTc6g1HuAzz8r4kFCn/s=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA-256-Digest: +4qCC/z642ideHvv0k5AfNl5PaMCnSGgNPY4SclRHQk=
+
+Name: assets/www/plugins/monaca-plugin-monaca-core/www/monaca.js
+SHA-256-Digest: mymWl762caf6SnmbsDlyydcDhWD9S1X47H4kT+NFgQs=
+
+Name: assets/www/settings.html
+SHA-256-Digest: nqnRzBNiV68S8AVfw/iXJlEbcR3wLSmSO5XGoiJBngQ=
+
+Name: assets/www/settings.js
+SHA-256-Digest: h9eekKCTkEyeeMNXvDhy3GP+E4tfKCCGPNa3HYnAugo=
+
+Name: assets/www/sevendays.html
+SHA-256-Digest: YTJYWQ6jsz8rETgYehE8dY61rILMGcXJAIbV5tdCOUA=
+
+Name: assets/www/sevendays.js
+SHA-256-Digest: Ii9Bkp5IQfXxzW2nwcHU/67cKzM+7i9deow4zMVSweY=
+
+Name: assets/www/thirtydays.html
+SHA-256-Digest: 4F1LfFWyKM7hrwKyYBIA65uL8R7IWMeLA9RM0nF56oU=
+
+Name: assets/www/thirtydays.js
+SHA-256-Digest: NmB/r5UDMUb3P2ZKrlRhQLmtxLafAbwqpi3HJeakzmo=
+
+Name: assets/www/vendor/animate/animate.css
+SHA-256-Digest: rFFrb51Yp5nzzNfQ3UrTh+uCVpVprLwXkR2IY22UMD8=
+
+Name: assets/www/vendor/animsition/css/animsition.css
+SHA-256-Digest: r77hnZBufo9X0HaBGg7OrPsQOLQlRgzYIeJSYq2qAfg=
+
+Name: assets/www/vendor/animsition/css/animsition.min.css
+SHA-256-Digest: YHAqUSEwbN4S/gNvkzZLXRvTsKWv/jZeIBHylCd2pcc=
+
+Name: assets/www/vendor/animsition/js/animsition.js
+SHA-256-Digest: cH4ljn//h3uYk6LV1wjLMfSH7k8mXbVfkSLWWts+dig=
+
+Name: assets/www/vendor/animsition/js/animsition.min.js
+SHA-256-Digest: vUXWBuebJXPQSt1C47YyDhpN7/8MMlegllaMtd2C7a0=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap-grid.css
+SHA-256-Digest: 5IKdY3wLA8ktP0Kl6VsoKIbu4W32vmYYCUhSPet9D2E=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap-grid.css.map
+SHA-256-Digest: XzjePT1yYf5+9nWNXHyphfFDZcoUAotSEkknLKTo3Os=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap-grid.min.css
+SHA-256-Digest: /aVLF+AxcWrE9wMOoiOyrphFb/IBmeMj008ta9EhA80=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap-grid.min.css.map
+SHA-256-Digest: N+YWFnDgu3SHWesIdgzgcHfOy9QxmMnmulba8e7Mx34=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap-reboot.css
+SHA-256-Digest: ivRX4bU31kCLUxsY7U9W72x78e1Eim0tEbjHmCrngIA=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap-reboot.css.map
+SHA-256-Digest: F1we+E0kewdXS8lRuvCWIe0IcyaYmUvK3AjHBmSwJIc=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap-reboot.min.css
+SHA-256-Digest: IcUgv78e1r/WGcQGZbZPyQvj41JxNjAjEfHyvwkt/dI=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap-reboot.min.css.map
+SHA-256-Digest: pkSqtCqkD5ZV/3mcfpge/wKqkXH3ZapJYroQ4yidaCo=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap.css
+SHA-256-Digest: vDvJrmCl9C++v90VwPHIkx3LAMebBQZ4z/YnazBIpYs=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap.css.map
+SHA-256-Digest: xVq22yQigLRbfVJH5J5yq/YG4ThFUFu2fDlPvGfXVGs=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap.min.css
+SHA-256-Digest: rqZVc37Isfo5b7zy1t7/HxYcUa5s4PXI0rC5O9vPVgU=
+
+Name: assets/www/vendor/bootstrap/css/bootstrap.min.css.map
+SHA-256-Digest: sK1gkgxleV/CotFPmkR2/Hk3tMaPIXNMoASRbHtb/kk=
+
+Name: assets/www/vendor/bootstrap/js/bootstrap.js
+SHA-256-Digest: uwbJjevdKhIkmfxUwFTW2AObUBQopiwQy5gXctl7sDA=
+
+Name: assets/www/vendor/bootstrap/js/bootstrap.min.js
+SHA-256-Digest: HPqEi8LQFb4S3GtxaVQtMaaMsyVkIRPRQrF7WskI5eg=
+
+Name: assets/www/vendor/bootstrap/js/popper.js
+SHA-256-Digest: eqrCIOqYxGNyoadgVEt7et2viY80aKHzhAMUjQgL41I=
+
+Name: assets/www/vendor/bootstrap/js/popper.min.js
+SHA-256-Digest: QQK2TDiT1KWs+GUQSytz3ecl4pBRws4VtOK4t6lTOFU=
+
+Name: assets/www/vendor/bootstrap/js/tooltip.js
+SHA-256-Digest: YYFoX12WHcJHdK9MA7PCenVVUsKmJgx3aBF0dkqNq3M=
+
+Name: assets/www/vendor/countdowntime/countdowntime.js
+SHA-256-Digest: VS7a1pylq+iHgWO2vDM4oktMiQVrpL5w6WRAQJ4aQt0=
+
+Name: assets/www/vendor/css-hamburgers/hamburgers.css
+SHA-256-Digest: rSnAfgNl3Cu6gyEdDGparKhPFaK8wBNb6VfyKX6GjfE=
+
+Name: assets/www/vendor/css-hamburgers/hamburgers.min.css
+SHA-256-Digest: AtSuRB1OP4zRgcapWoT4ABhoYtcJYstIwDhs/B9RoG0=
+
+Name: assets/www/vendor/daterangepicker/daterangepicker.css
+SHA-256-Digest: DZxrHC5RK0QBMqkso42uX4n6y9UTqfQp9QTTLhVR5V8=
+
+Name: assets/www/vendor/daterangepicker/daterangepicker.js
+SHA-256-Digest: Wj/7j/NBOpEQknCofE/gM8ax+0ikchpmqZySEOWD9qE=
+
+Name: assets/www/vendor/daterangepicker/moment.js
+SHA-256-Digest: cGNdTYmzEX+HJvxuad0zvFbhZKQNS3yyDTmKWGOvQRY=
+
+Name: assets/www/vendor/daterangepicker/moment.min.js
+SHA-256-Digest: 0ZJJgpSQB58CC/mU3AlfEfTpLewV2ffPd+5exPpiA7g=
+
+Name: assets/www/vendor/jquery/jquery-3.2.1.min.js
+SHA-256-Digest: TO38+MSaqHl3acCaj/kpLu05n4pUphlM3GhRpqoKjpA=
+
+Name: assets/www/vendor/perfect-scrollbar/perfect-scrollbar.css
+SHA-256-Digest: OtKIRR//RmecxGGdqpmNvQ9evpAaUzoNHfx3A84Zbno=
+
+Name: assets/www/vendor/perfect-scrollbar/perfect-scrollbar.min.js
+SHA-256-Digest: hLq0ZOu9LRG6xvgz3T/sPJWJLXSgHpLDRokOqBU88VQ=
+
+Name: assets/www/vendor/select2/select2.css
+SHA-256-Digest: 3Kf44eVfkzsmaEririyfTOJ+HuhyhO3ROXByoHHrolI=
+
+Name: assets/www/vendor/select2/select2.js
+SHA-256-Digest: MPI6Lzvo6rwTW399zM3SNej3Or2udB6KWQ83bSau8X4=
+
+Name: assets/www/vendor/select2/select2.min.css
+SHA-256-Digest: a06hsWpONWygiu+2OE+QNnLwy1oGrUAcP4k4y1gYqd4=
+
+Name: assets/www/vendor/select2/select2.min.js
+SHA-256-Digest: SyV+CFyORC4axT89AZ5gTLHD2K5RQPo35O2JuAiX7YM=
+
+Name: assets/www/yesterday.html
+SHA-256-Digest: PsC/mEaYEXcUW6zKAaOCBccJQSaG4ZUOfuJen1McIPs=
+
+Name: assets/www/yesterday.js
+SHA-256-Digest: VyKc1xEeQkSKiH1Lg6S+LiJqt5PW8WJS5EKvczRKkjI=
+
+Name: classes.dex
+SHA-256-Digest: PEBUMXfJ54IeBUx68n1RmgvWo1jABgthPgnz7u2QDlI=
+
+Name: res/drawable-mdpi-v4/screen.png
+SHA-256-Digest: rxOlgZGQcQTIxkyYKF4FtBFhGlPrJvBRNdcr7W7MqlU=
+
+Name: res/drawable-port-hdpi-v4/screen.9.png
+SHA-256-Digest: 831nj3SyJyLUkvO/RtRvZgOzkIE+W4kzaklCLFugdXM=
+
+Name: res/drawable-port-ldpi-v4/screen.9.png
+SHA-256-Digest: WKCtlAJw7d3gPkjN1Z1HOwxI1J8V0ogwn5FbbVM3z/g=
+
+Name: res/drawable-port-mdpi-v4/screen.9.png
+SHA-256-Digest: lTtMTY+MxmlLXEVX83ZUX1mxH0nvVfrldDxGCM0QoT8=
+
+Name: res/drawable-port-xhdpi-v4/screen.9.png
+SHA-256-Digest: fztF/XvFXanNZl8SmWgJ7JGc3NZuXd4MqLILAqtt2d8=
+
+Name: res/drawable-port-xxhdpi-v4/screen.9.png
+SHA-256-Digest: /8xjsnJcmA7lGGDUoN5IY+sJxdVtBTCZSZzPsZS3R9I=
+
+Name: res/drawable-port-xxxhdpi-v4/screen.9.png
+SHA-256-Digest: IWKBra0Sy2zdjn6OIpUjIPJpTaGbTcZxER/A7Yn01Yg=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: JDNLlYNSwXlmTfbnU4WIL8jeEXEeLgkMYCPfd/t5wMI=
+
+Name: res/mipmap-ldpi-v4/ic_launcher.png
+SHA-256-Digest: 27aOcQiXq25ZW3F5qv4LSCaGLVemlCoMrNCvZg6kuXA=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: mkCKb5uwMcY4Dz6cFy3QQm+9mUs5dgXhXH+4oHzXXc8=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: NaPDLfj+EJjnLlRGTUigm4Nm844f9TtogzJQXwXQ0fw=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: QvcZMI/8B+9qKdBdSSbrePT5co/7j/sJ3IAak5JD4tk=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: Li5qUXJpwN8Ds/Tah5fQaYsAQX5OIPGG2e7QzJTm9cM=
+
+Name: res/xml-v22/config.xml
+SHA-256-Digest: oyng5GEyUgPK7tYCOEz3PY+AAyMMBGqFeF1oWFH8FFI=
+
+Name: res/xml/config.xml
+SHA-256-Digest: s2I2JjmU7kT7OqiAEi3Cfr0gBN0/TtJLm/J0rCcBktA=
+
+Name: resources.arsc
+SHA-256-Digest: pTK4P4d2qdPb5phpUHx4qH20l39sWUXlaZnSjeTN/vM=
+
